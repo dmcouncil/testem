@@ -3,7 +3,7 @@ Got Scripts? Test&rsquo;em!
 
 *Note on the DMGroup fork:* Don't rebase this branch with upstream, or if you do, build a new branch and leave this in place to avoid breaking all our Ember apps until they shrinkwrap the new version.
 
-[![Build Status](https://travis-ci.org/testem/testem.svg?branch=master)](https://travis-ci.org/testem/testem) [![Dependency Status](https://david-dm.org/testem/testem.svg)](https://david-dm.org/testem/testem) [![npm version](https://badge.fury.io/js/testem.svg)](http://badge.fury.io/js/testem) [![Windows build status](https://ci.appveyor.com/api/projects/status/l948rc4rv391ayge/branch/master?svg=true)](https://ci.appveyor.com/project/johanneswuerbach/testem/branch/master)
+[![Build Status](https://travis-ci.org/dmcouncil/testem.svg?branch=master)](https://travis-ci.org/testem/testem) [![Dependency Status](https://david-dm.org/testem/testem.svg)](https://david-dm.org/testem/testem) [![npm version](https://badge.fury.io/js/testem.svg)](http://badge.fury.io/js/testem)
 
 Unit testing in Javascript can be tedious and painful, but Testem makes it so easy that you will actually *want* to write tests.
 
