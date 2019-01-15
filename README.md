@@ -1,3 +1,8 @@
+YOU DON'T NEED THIS FORK
+========================
+
+This repo was forked to provide a reporter which would produce output usable for SolanoCI. Solano has now EOLed, so you shouldn't need this anymore. Return to testem/testem and use the main line.
+
 Got Scripts? Test&rsquo;em!
 =================
 
